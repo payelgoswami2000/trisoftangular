@@ -1,0 +1,193 @@
+@import "https://use.fontawesome.com/releases/v5.5.0/css/all.css";
+
+.bg-light{
+    background: -webkit-linear-gradient(left,rgba(0, 0, 255, 0.425),rgba(220, 20, 60, 0.315)) !important;
+}
+.carousel-item img {
+    height: 500px;
+}
+.nav-item a{
+    color: white;
+}
+
+
+.img-thumbnail{
+    height: 170px;
+    width:300px;
+     margin-left: 42px;
+} 
+.myimg{
+    /* border-radius: 2px solid  black; */
+    background: #FFFFFF;
+    height: 312px;
+    /* padding: 4px;
+    margin:  0px 0px 0px 42px; */
+
+}
+.about{
+    margin-top: 15px;
+    /* background: -webkit-linear-gradient(rgba(0, 0, 255, 0.295),rgba(255, 255, 255, 0.39)); */
+}
+
+
+/* part 4 */
+.imagenew{
+    margin-left: 9px;
+}
+.part4{
+    margin-top: 15px;
+    
+}
+.part4 h5{
+    /* align-items: right; */
+    text-align: right;
+    /* margin-right: 5px; */
+}
+
+
+/* client */
+.client{
+    padding: 80px 0 0;
+    background: #055999;
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    /* margin-top:70px ; */
+   
+}
+
+/* card */
+.buttonstyle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.center{
+    
+    text-align: center;
+    
+}
+
+/* sub footer */
+.sub-footer{
+    background-color: black;
+}
+p{
+    font-size: 15px;
+    margin-top: 10px;
+}
+a{
+    color: #fff;
+    
+}
+
+.social{
+    float: right;
+   
+}
+.social a{
+    margin: 5px;
+}
+/* footer */
+.footer {
+    /* margin-top: 70px; */
+    padding: 50px 0 0 0;
+    color: #949494;
+    background: #1B1B1B;
+    padding-top: 50px;
+    height: 100%;
+}
+ul{
+    list-style: none;
+    margin-top: 1px;
+    text-align: left;
+   
+}
+b{
+    color: white;
+    text-align: center;
+    margin-left: 37px;
+}
+
+/* li{ */
+    /* margin-top: 10px; */
+    
+    /* line-height: 1.5; */
+
+
+/* } */
+/* card */
+.card-group{
+    margin-top: 15px;
+}
+
+
+
+
+/* insta */
+*{
+    box-sizing: border-box;
+  }
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.part4 h5{
+    position: relative;
+    left: -30px;
+}
+.pp{
+    width: 50%;
+    border: 1px solid red;
+    height: auto;
+}
+/* partner */
+.insta{
+    width: 100%;
+    height: auto;
+    border: 2px solid black;
+}
+/*  */
+.new{
+    width: 50%;
+    height: auto;
+    border: 2px solid black;
+
+    display: flex;
+    position: relative;
+    left: 40%;
+    align-items: right;
+
+
+}
+.imgone{
+    width: 40%;
+}
+.imagetwo{
+    width: 40%;
+}
